@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1Oj1xSmUz8k1207398E2Uqf4uBb" />
+  <component name="RunManager">
+    <configuration name="HienThiLoiChao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienThiLoiChao" />
+      <module name="Module2_SS1_Xanh_HienThiLoiChao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HienThiLoiChao" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
